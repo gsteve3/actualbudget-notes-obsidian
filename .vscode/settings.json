@@ -1,0 +1,8 @@
+{
+    "conventionalCommits.scopes": [
+        "hotkeys",
+        "content",
+        "ux",
+        "vscode"
+    ]
+}
