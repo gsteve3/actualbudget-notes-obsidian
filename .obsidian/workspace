@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "a04185d9ec2ed335",
+    "type": "split",
+    "children": [
+      {
+        "id": "94795416af06cdd4",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dfccdda375ba1b46",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe933c3405288a7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbdd596c6ebee0c4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "2194d8bb356b6deb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "test",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "0f8e19393be60629",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f23ad40d5855a4cb",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "be9f9ebac982501e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 421.0121879577637
+  },
+  "right": {
+    "id": "c484edaefe5d7171",
+    "type": "split",
+    "children": [
+      {
+        "id": "e26fb3e0ad78e0c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e82f9235deb79685",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "49e053de3fa7b1b9",
+            "type": "leaf",
+            "state": {
+              "type": "Saved Queries View",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "6fed1c1c7b728f9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc788644416d7c51",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "efb50f9a3bd0d8f3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "98430c26cac96774",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fd75ac621020acf2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 338
+  },
+  "active": "94795416af06cdd4",
+  "lastOpenFiles": [
+    "README.md",
+    "ActualBudget.com Review - MOVED to its own Vault - 2022-04-28.md",
+    "reviews/ActualBudget.com/README.md.md",
+    "reviews/ActualBudget.com/people/James Long - Maker of ActualBudget, Design Systems at Stripe.md",
+    "reviews/ActualBudget.com/Dynamic Copyright Year in Footer.md",
+    "reviews/ActualBudget.com/Categorize Cards with Tags (trello term )).md",
+    "reviews/ActualBudget.com/people/Greg Stevens - @gsteve3 - for ACBUD.md",
+    "reviews/ActualBudget.com/people/James Long Photo 1.png",
+    "reviews/ActualBudget.com/TODO - ActualBudget.com.kanban.md",
+    "reviews/ActualBudget.com/Trello-Board-ActualBudget.com.kanban.md"
+  ]
+}

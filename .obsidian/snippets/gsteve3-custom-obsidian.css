@@ -1,0 +1,107 @@
+
+/* 2022-04-23 Cannot see `---` `<hr>` horizontal lines */
+/*
+hr {
+    border: none;
+    border-top: 1px solid;
+    border-color: var(--background-modifier-border);
+    margin: 26px 0;
+}
+ */
+
+
+.markdown-source-view.mod-cm6 hr,
+div.hr.cm-line hr,
+hr {
+    border-color: #e07348;
+    color: #e07348;
+    border-top: 1px dashed;
+    margin: 0;
+    padding: 0;
+}
+
+/* .markdown-source-view.mod-cm6 hr  */
+
+
+/* end hr */
+
+/*
+Fix inline code blocks height overflowing into next line.
+2022-04-23
+@gsteve3
+
+Rule to override:
+
+    .cm-s-obsidian span.cm-inline-code:not(.cm-formatting):not(.cm-hmd-indented-code):not(.obsidian-search-match-highlight) {
+        background-color: var(--background-primary-alt);
+        vertical-align: baseline;
+    }
+
+Below fixes padding inheritance from:
+
+    .cm-list-1 {
+        padding-bottom: 2rem;
+        border-top: 1px dashed #dcdcdc;
+        margin-top: 3rem;
+        padding-top: 10px;
+    }
+*/
+.cm-s-obsidian span.cm-inline-code:not(.cm-formatting):not(.cm-hmd-indented-code):not(.obsidian-search-match-highlight) {
+    /* background-color: red; */
+    padding: 2px 4px;
+}
+
+
+/* 2022-04-14 - Obuntu Theme */
+/* OVERRIDE Image Shrink
+.markdown-preview-view img {
+    display: block;
+    margin-top: 20pt;
+    margin-bottom: 20pt;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    transition: transform 0.25s ease;
+}
+*/
+.markdown-preview-view img {
+    display: block;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    margin-left: auto;
+    margin-right: auto;
+    /* width: auto; */
+    max-width: 90%;
+    /* transition: transform 0.25s ease; */
+}
+
+.markdown-preview-view img:hover {
+    transition: none;
+    transform: none;
+}
+
+
+/*
+/* .markdown-source-view { */
+.HyperMD-list-line .cm-content,
+.cm-line > span {
+    font-family: 'Cascadia Mono', 'OCR A', 'Fira Code', monospace;
+    font-size: 0.9rem;
+    /* line-height: 3rem; */
+}
+
+/* .cm-line > span span { */
+.HyperMD-list-line-2 > span {
+    /* line-height: 1rem; */
+}
+.cm-list-1 {
+    padding-bottom: 2rem;
+    border-top: 1px dashed #dcdcdc;
+    margin-top: 3rem;
+    padding-top: 10px;
+}
+*/
+
+
+
+

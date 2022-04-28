@@ -1,0 +1,9 @@
+{
+  "baseFontSize": 16,
+  "theme": "moonstone",
+  "cssTheme": "Obuntu",
+  "translucency": false,
+  "enabledCssSnippets": [
+    "gsteve3-custom-obsidian"
+  ]
+}
