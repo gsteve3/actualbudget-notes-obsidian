@@ -3,6 +3,7 @@
         "hotkeys",
         "content",
         "ux",
-        "vscode"
+        "vscode",
+        "ignore"
     ]
 }
